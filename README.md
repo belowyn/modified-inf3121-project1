@@ -1,6 +1,7 @@
 # modified-inf3121-project1
 Modified code for project 1 in INF3121
 
-Written by Lars Solem & Øystein Røysland Sørlie
+Written by Lars Solem & Ã˜ystein RÃ¸ysland SÃ¸rlie
+larssole & oysterso
 
 All files modified other then Player.java
